@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-09-05 01:01:56 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:02:02 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:02:20 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:09:24 --> 404 Page Not Found: SubastasDisponibles/index
+ERROR - 2017-09-05 01:09:56 --> 404 Page Not Found: SubastasDisponibles/index
+ERROR - 2017-09-05 01:17:14 --> 404 Page Not Found: SubastasDisponibles/index
+ERROR - 2017-09-05 01:20:33 --> 404 Page Not Found: Subastas/subastasDisponibles
+ERROR - 2017-09-05 01:23:17 --> 404 Page Not Found: Subastas/subastasDisponibles
+ERROR - 2017-09-05 01:23:38 --> 404 Page Not Found: Subastas/subastasDisponibles
+ERROR - 2017-09-05 01:23:53 --> 404 Page Not Found: Subastas/subastas
+ERROR - 2017-09-05 01:24:10 --> 404 Page Not Found: Subastas/subastas
+ERROR - 2017-09-05 01:24:19 --> 404 Page Not Found: Subastas/index
+ERROR - 2017-09-05 01:28:26 --> 404 Page Not Found: Subasta/subastasDisponibles
+ERROR - 2017-09-05 01:28:46 --> 404 Page Not Found: SubastasDisponibles/index
+ERROR - 2017-09-05 01:29:47 --> 404 Page Not Found: SubastasDisponibles/index
+ERROR - 2017-09-05 01:35:03 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:36:16 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:36:20 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:38:58 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:39:19 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:39:36 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:39:38 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:39:43 --> 404 Page Not Found: VerSubastas/index
+ERROR - 2017-09-05 01:44:29 --> 404 Page Not Found: Subastas/index
+ERROR - 2017-09-05 01:44:34 --> 404 Page Not Found: Subastas/index
+ERROR - 2017-09-05 01:45:04 --> 404 Page Not Found: Subastas/index
+ERROR - 2017-09-05 01:45:35 --> 404 Page Not Found: Carrito2/index
+ERROR - 2017-09-05 01:45:40 --> 404 Page Not Found: Carrito2/index
+ERROR - 2017-09-05 01:45:43 --> 404 Page Not Found: Carrito2/index
+ERROR - 2017-09-05 01:53:52 --> 404 Page Not Found: Subastas/index
